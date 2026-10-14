@@ -1,0 +1,2 @@
+Model,Alpha,Accuracy,Balanced Accuracy,Macro F1
+Logistic Regression,0.75,0.7324348210340257,0.5433747806367589,0.17760312802124892
